@@ -24,5 +24,5 @@ num = input("Enter a number")
 num = int(num)
 for i in num2:
     print(num * i)
-    break
+    
 
